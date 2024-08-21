@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    background-color: #f3d4aa;
+    flex-direction: row;
+    height: 500px;
+    column-gap: 3cm;
+    justify-content: space-between;
+    
+    
+}
+  .flex-items{
+    width: 200px;
+    height: 200px;
+  
+  }
+   #one{background-color: green;}
+   #two{background-color: blue;}
+   #three{background-color: red;}
+   

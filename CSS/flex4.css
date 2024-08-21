@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    background-color: #f3d4aa;
+    flex-direction:column;
+    height: 600px;
+    justify-content: center;
+    gap: 2cm;
+   
+}
+  .flex-items{
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+  
+  }
+   #one{background-color: green;}
+   #two{background-color: blue;}
+   #three{background-color: red;}
+   

@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    background-color: #f3d4aa;
+    flex-direction: row;
+    height: 500px;
+    align-items: end;
+    justify-content: end;
+ 
+    
+    
+}
+  .flex-items{
+    width: 200px;
+    height: 200px;
+  
+  }
+   #one{background-color: green;}
+   #two{background-color: blue;}
+   #three{background-color: red;}
+   
